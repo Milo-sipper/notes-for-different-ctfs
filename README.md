@@ -1,2 +1,1 @@
-This is where my writeups may go
-Will be seperated into different categories
+This is where my writeups may go, and it will be separated into different categories
