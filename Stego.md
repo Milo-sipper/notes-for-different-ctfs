@@ -1,3 +1,0 @@
-STEGO
-
-**will add later**
