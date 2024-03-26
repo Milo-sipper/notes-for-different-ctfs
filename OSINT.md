@@ -1,3 +1,0 @@
-OSINT
-
-**will add later**
