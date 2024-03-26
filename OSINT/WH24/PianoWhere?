@@ -1,1 +1,15 @@
+Piano Where?
 
+We are given a .ogg file which we can open in audacity
+
+
+We would then be greeted by multiple layers of audio, playing music. However, there was a slight beeping noise at the back, which drew my attention. if you isolate the nosie, we would use a spectrogram to determine that it is morse code. Should one decrypt it, it would spell out a message "maybe_ try_ssweesarah_on_insta?"
+
+If you navigate to instagram and type in the profile, you will end up with a picture of an ijooz machine with a piano next to it. 
+
+Here is the really guuessy part. I tried looking for ijooz machines first to try to determine the position of the izooj machine pictured in the photo, but after a very long time, i realised maybe it would be easier to search for public pianos in Singapore. 
+
+I went to https://www.thepiano.sg/piano/public, and after a bit of looking on their site, i found out that the public piano in the picture was in garden's by the bay!
+
+
+flag: WH2024{gardens_by_the_bay}
